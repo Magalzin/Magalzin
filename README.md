@@ -11,8 +11,10 @@ Sou um Programador iniciante em busca de aprender sempre mais e me melhorar a ca
 </div>
 
 # 📊 GitHub Stats:
+<div>
 <a href="https://github.com/Magalzin">
 <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magalzin&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=Magalzin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</div>
 
 
