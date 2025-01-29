@@ -4,7 +4,7 @@ Sou um Programador iniciante em busca de aprender sempre mais e me melhorar a ca
 # 📖 Estou estudando atualmente:
 <div alt="Meus Estudos" style="display: inline_block;">
 <img align="center" alt="Magal-Python" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg"/>
-<img align="center" alt="Magal-Flutter" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg"/>
+<img align="center" alt="Magal-Flutter" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg"/>
 </div>
 
 # 💻 Meus conhecimentos:
