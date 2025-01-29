@@ -1,10 +1,14 @@
-# 👋 Ola! Eu sou o Matheus Magalhães
+![image](https://github.com/user-attachments/assets/43834e33-95e4-4996-88bc-dc10b128cccc)# 👋 Ola! Eu sou o Matheus Magalhães
 Sou um Programador iniciante em busca de aprender sempre mais e me melhorar a cada dia.
+
+# 📖 Estou estudando atualmente:
+<div alt="Meus Estudos" style="display: inline_block;">
+<img align="center" alt="Magal-Python" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg"/>
+<img align="center" alt="Magal-Flutter" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg"/>
+</div>
 
 # 💻 Meus conhecimentos:
 <div alt="Meus Conhecimentos" style="display: inline_block;">
-<img align="center" alt="Magal-CSharp" heigth="40" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-<img align="center" alt="Magal-Angular" heigth="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
 <img align="center" alt="Magal-GitHub" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 <img align="center" alt="Magal-Html" heigth="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="center" alt="Magal-CSS" heigth="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"/>
