@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/43834e33-95e4-4996-88bc-dc10b128cccc)# 👋 Ola! Eu sou o Matheus Magalhães
+![image](https://github.com/user-attachments/assets/43834e33-95e4-4996-88bc-dc10b128cccc) #👋 Ola! Eu sou o Matheus Magalhães
 Sou um Programador iniciante em busca de aprender sempre mais e me melhorar a cada dia.
 
 # 📖 Estou estudando atualmente:
