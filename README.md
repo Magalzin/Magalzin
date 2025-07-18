@@ -4,16 +4,18 @@ Sou um Programador iniciante em busca de aprender sempre mais e me melhorar a ca
 
 # 📖 Estou estudando atualmente:
 <div alt="Meus Estudos" style="display: inline_block;">
-<img align="center" alt="Magal-Python" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg"/>
 <img align="center" alt="Magal-Flutter" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg"/>
-<img align="center" alt="Magal-Flutter" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
+<img align="center" alt="Magal-GitHub" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
 </div>
 
 # 💻 Meus conhecimentos:
 <div alt="Meus Conhecimentos" style="display: inline_block;">
+<img align="center" alt="Magal-Flutter" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg"/>
+<img align="center" alt="Magal-GitHub" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
 <img align="center" alt="Magal-GitHub" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 <img align="center" alt="Magal-Html" heigth="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="center" alt="Magal-CSS" heigth="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"/>
+<img align="center" alt="Magal-GitHub" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 </div>
 
 # 📊 GitHub Stats:
