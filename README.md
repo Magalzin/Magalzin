@@ -6,6 +6,7 @@ Sou um Programador iniciante em busca de aprender sempre mais e me melhorar a ca
 <div alt="Meus Estudos" style="display: inline_block;">
 <img align="center" alt="Magal-Flutter" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg"/>
 <img align="center" alt="Magal-GitHub" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
+<img align="center" alt="Magal-GitHub" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/>
 </div>
 
 # 💻 Meus conhecimentos:
